@@ -1,0 +1,16 @@
+.card-info{
+    background-color: #d1e0ee;
+    width: 400px;
+    padding: 5px 10px;
+    border-radius: 8px;
+    box-shadow: #bbbbbb 1px 1px;
+}
+
+.card-info-desc{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-info-desc-img {
+    border-radius: 5px;
+}
